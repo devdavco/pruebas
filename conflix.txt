@@ -1,1 +1,3 @@
 conflicto de merge 
+
+cambios desde la rama developer
