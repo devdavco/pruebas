@@ -1,4 +1,0 @@
-conflicto de merge 
-
-Segundo cambio desde main
-cambios desde la rama developer
