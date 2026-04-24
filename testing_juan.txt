@@ -8,3 +8,5 @@ Haciendo otra actualización desde GitHub
 
 
 probando git fetch, para visualizar en terminal
+
+ahora desde local
