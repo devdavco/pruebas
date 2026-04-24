@@ -5,3 +5,6 @@ Mi primera contribución local para GitHub
 Haciendo cambio desde Github
 
 Haciendo otra actualización desde GitHub
+
+
+probando git fetch, para visualizar en terminal
